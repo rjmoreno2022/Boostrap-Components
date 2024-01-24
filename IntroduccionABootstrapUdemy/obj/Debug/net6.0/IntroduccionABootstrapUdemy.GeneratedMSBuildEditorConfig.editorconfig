@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IntroduccionABootstrapUdemy
+build_property.RootNamespace = IntroduccionABootstrapUdemy
+build_property.ProjectDir = C:\Develop\ASP.NET Core MVC 6\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos\ASP.NET Core 6\Introduccion a Bootstrap\IntroduccionABootstrapUdemy\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Develop\ASP.NET Core MVC 6\Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos\ASP.NET Core 6\Introduccion a Bootstrap\IntroduccionABootstrapUdemy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Acordeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY29yZGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Alertas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGVydGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Colores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2xvcmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Columnas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2x1bW5hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Contenedores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250ZW5lZG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Espacios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc3BhY2lvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Formularios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtdWxhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Gutters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdXR0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Imagenes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbWFnZW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Ratio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYXRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Tablas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Tamaños.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYW1hw7Fvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Texto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXh0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Home/Toast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb2FzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Develop/ASP.NET Core MVC 6/Aprende-ASP-NET-Core-MVC-Haciendo-Proyectos/ASP.NET Core 6/Introduccion a Bootstrap/IntroduccionABootstrapUdemy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f51fpnc65x
